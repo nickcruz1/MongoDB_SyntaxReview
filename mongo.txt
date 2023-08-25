@@ -13,3 +13,13 @@ show dbs
 
 // Inserting a document
 db.title.insert({"name":"Captain"})
+
+// Dropping a database
+db.dropDatabase()
+
+// Creating a collection
+db.createCollection("nickscollection")
+{ "First": 1}
+
+// Checking Collections 
+show collections
