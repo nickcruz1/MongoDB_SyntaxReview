@@ -11,4 +11,5 @@ db
 // Check database list 
 show dbs
 
-Inserting a document
+// Inserting a document
+db.title.insert({"name":"Captain"})
