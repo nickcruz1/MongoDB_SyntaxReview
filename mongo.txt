@@ -1,2 +1,6 @@
 // Creates a database 
 use nicksdatabase
+use another_db
+
+// Switches databases
+use another_db
