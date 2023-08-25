@@ -4,3 +4,11 @@ use another_db
 
 // Switches databases
 use another_db
+
+// Check currently selected database
+db
+
+// Check database list 
+show dbs
+
+Inserting a document
